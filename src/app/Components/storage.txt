@@ -1,0 +1,19 @@
+<div className='border body flex-row maxwidth-1700'>
+            
+            <div className='border flex-row'>
+            <div className='border navbar maxwidth-1500'>
+                <Image alt="ikea logo" src="/ikea_logo.png" width={90} height={35} />
+                {/* <img className='border logo' alt="ikea logo" src="/ikea_logo.png"/> */}
+                <InputGroup>
+                    <Input className='border' type={'text'} variant={'filled'} placeholder={'Search...'} width={'auto'}></Input>
+                </InputGroup>
+                <div className='border icons'>
+                    <Image className='border navbar-icon' alt='user icon' src='/user_icon.png' width={30} height={30}/>
+                    <Image className='border navbar-icon' alt='user icon' src='/heart_icon.png' width={30} height={30}/>
+                    <Image className='border navbar-icon' alt='user icon' src='/cart icon.png' width={30} height={30}/>
+                </div>
+                
+            </div>
+            </div>
+
+        </div>
