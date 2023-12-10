@@ -22,7 +22,7 @@ export default function About() {
                                 
                                 <Box mb={'100px'}>
                                     <Heading fontSize={'xl'} mb={'20px'}>Vision</Heading>
-                                    <Text mb={'20px'}>&quot;To create a better everyday life for the many people.&quot; This vision goes beyond home furnishing. We want to have a positive impact on the world – from the communities where we source our raw materials to the way our products help our customers live a more sustainable life at home.</Text>
+                                    <Text mb={'20px'}>&quot;To create a better everyday life for the many people.&quot; This vision goes beyond home furnishing. We want to have a positive impact on the world - from the communities where we source our raw materials to the way our products help our customers live a more sustainable life at home.</Text>
                                     <Text>By sharing what we do, and speaking up for what we believe in, we can be part of positive change in society.</Text>
                                 </Box>
                                 <Box mb={'50px'}>
@@ -62,7 +62,7 @@ export default function About() {
 
                         <Heading fontSize={'4xl'} mt={'50px'} mb={'50px'}>The IKEA range is born</Heading>  
                         <Box mb={'50px'} maxW={'700px'}>   
-                            <Text mb={'50px'}>To reward him for doing well in school, Ingvar’s father gave him a small sum of money which he used to set up a company. In 1948 he starts selling furniture, signalling the start of the IKEA range as we know it.</Text>
+                            <Text mb={'50px'}>To reward him for doing well in school, Ingvar&apos;s father gave him a small sum of money which he used to set up a company. In 1948 he starts selling furniture, signalling the start of the IKEA range as we know it.</Text>
                             
                         </Box>
 
@@ -79,7 +79,7 @@ export default function About() {
                             <Box>
                                 <Box pr={'20px'} mb={'50px'}>
                                     <Heading fontSize={'4xl'}>Low prices and good quality</Heading> 
-                                    <Text>IKEA founder Ingvar Kamprad was always determined to offer the best possible prices but not at the expense of quality. He was aware that some of his competitors were cheating on quality to keep prices down, something he was not prepared to do. In the 1948–1949 issue of the brochure “ikéa-nytt” he explained how IKEA prices could be kept so low. “Our low prices – by far the lowest in the land – are possible thanks to a high turnover, direct delivery from the factory and very low overheads.” Ingvar’s original idea to offer products with both a low price and good quality is alive and well to this very day and has become a cornerstone of the IKEA culture and identity.</Text>
+                                    <Text>IKEA founder Ingvar Kamprad was always determined to offer the best possible prices but not at the expense of quality. He was aware that some of his competitors were cheating on quality to keep prices down, something he was not prepared to do. In the 1948 - 1949 issue of the brochure &quot;ikéa-nytt&quot; he explained how IKEA prices could be kept so low. &quot;Our low prices - by far the lowest in the land - are possible thanks to a high turnover, direct delivery from the factory and very low overheads.&quot; Ingvar&apos;s original idea to offer products with both a low price and good quality is alive and well to this very day and has become a cornerstone of the IKEA culture and identity.</Text>
                                 </Box>
                                 <Image alt='owner2' src='/owner2.png' width={700} height={700} objectFit='cover'/>
                                 
@@ -88,7 +88,7 @@ export default function About() {
                                 <Image alt='flatpack' src='/flatpack.png' width={700} height={700} objectFit='cover'/>
                                 <Box pr={'20px'}>
                                     <Heading fontSize={'4xl'} mt={'50px'} mb={'20px'}>The flatpack revolution begins</Heading> 
-                                    <Text>High costs and damage rates when transporting furniture via mail order were constant thorns in Ingvar’s side. Although flatpack furniture already existed, it hadn’t really taken off in Sweden yet. In 1953, IKEA adopted the flatpack. Self-assembly products proved popular and to be the solution to those costly transportation problems.</Text>
+                                    <Text>High costs and damage rates when transporting furniture via mail order were constant thorns in Ingvar&apos;s side. Although flatpack furniture already existed, it hadn&apos;t really taken off in Sweden yet. In 1953, IKEA adopted the flatpack. Self-assembly products proved popular and to be the solution to those costly transportation problems.</Text>
                                 </Box>
                             </Box>
                         </SimpleGrid>
@@ -109,7 +109,7 @@ export default function About() {
                             <Box p={'50px'} display={'flex'} flexFlow={'column'} justifyContent={'flex-start'} bgColor={'#DCBFB9'}>
                                 <Heading fontSize={'4xl'} mt={'50px'} mb={'50px'} textAlign={'left'}>Well-fed customers are happy customers</Heading>  
                                 <Box mb={'100px'}>
-                                    <Text>In June 1960, only coffee and cold dishes were offered in IKEA stores. By the end of the year, the IKEA restaurant kitchen was fully equipped, including a microwave oven – a novelty at the time. Everything from hot snacks such as hamburgers to á la carte dishes were served. The idea comes from something Ingvar observed: people left the store at lunchtime to eat in one of the restaurants or street kitchens in Älmhult. This interrupted the whole buying process. He realized that hungry customers buy less. Or as we often say, it’s tough to do business on an empty stomach.</Text>
+                                    <Text>In June 1960, only coffee and cold dishes were offered in IKEA stores. By the end of the year, the IKEA restaurant kitchen was fully equipped, including a microwave oven - a novelty at the time. Everything from hot snacks such as hamburgers to á la carte dishes were served. The idea comes from something Ingvar observed: people left the store at lunchtime to eat in one of the restaurants or street kitchens in Älmhult. This interrupted the whole buying process. He realized that hungry customers buy less. Or as we often say, it&apos;s tough to do business on an empty stomach.</Text>
                                 </Box>
                             </Box>
                             <Box>
@@ -125,8 +125,8 @@ export default function About() {
                                 <Heading fontSize={'4xl'} mt={'50px'} mb={'50px'}>IKEA expands and restructures</Heading>  
                                 <Box mb={'100px'}>
                                     <UnorderedList fontSize={'xs'}>
-                                        <ListItem mb={'5px'}>1950 – 1959: IKEA expanded operations in Sweden.</ListItem>
-                                        <ListItem mb={'5px'}>1960 – 1969: Stores opened in Denmark and Norway.</ListItem>
+                                        <ListItem mb={'5px'}>1950 - 1959: IKEA expanded operations in Sweden.</ListItem>
+                                        <ListItem mb={'5px'}>1960 - 1969: Stores opened in Denmark and Norway.</ListItem>
                                         <ListItem mb={'5px'}>1970s: The expansion continued in countries outside of Scandinavia including Australia, Austria, Canada, Germany, Hong Kong, Japan, Kuwait, Netherlands, Singapore and Switzerland.</ListItem>
                                         <ListItem mb={'5px'}>Early 1980s: Ingvar Kamprad looked for an ownership structure that would ensure total independence and a long-term business perspective. He described this as trying to give the IKEA brand “eternal life”. His solution was to separate the ownership of the retail operation from the IKEA concept and the IKEA brand to keep these separate roles in independent business groups, operating under a franchise system.</ListItem>
                                     </UnorderedList>
