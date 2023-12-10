@@ -34,7 +34,7 @@ export default function About() {
 
                         <SimpleGrid minChildWidth={'700px'} mb={'100px'} columns={2}>
                             <Box p={'50px'} display={'flex'} flexFlow={'column'} justifyContent={'flex-end'}>
-                                <Heading fontSize={'2xl'} mt={'50px'} mb={'50px'}>&quot;IKEA is not the work of one person alone. It is the result of many minds and many souls working together through many years of joy and hard work.&quot;</Heading>  
+                                <Heading fontSize={'2xl'} mt={'50px'} mb={'50px'}>&quot;<i>IKEA is not the work of one person alone. It is the result of many minds and many souls working together through many years of joy and hard work.</i>&quot;</Heading>  
                                 <Box mb={'100px'}>
                                     <Text><b>Ingvar Kamprad</b></Text>
                                     <Text>IKEA Founder</Text>
@@ -55,7 +55,7 @@ export default function About() {
                                 <Heading fontSize={'4xl'} mt={'50px'} mb={'50px'}>Our roots</Heading>  
                                 <Box mb={'100px'}>
                                     <Text>Ingvar Kamprad founded IKEA in 1943 at the age of 17, selling goods like pens and wallets. Småland, his home county in Sweden, was heavily forested with stony soil. Resourceful people who were expert at making the most of a little is a quality that has always been at the heart of IKEA.</Text>
-                                    <Text ml={'50px'} textAlign={'right'} fontSize={'xl'} mt={'80%'}><i>Did you know? IKEA is named after the initials of founder <b>I</b>ngvar <b>K</b>amprad, <b>E</b>lmtaryd, the farm on which he grew up, and <b>A</b>gunnaryd, the nearby village.</i></Text>    
+                                    <Text ml={'50px'} textAlign={'right'} fontSize={'xl'} mt={'80%'}><i>&quot;Did you know? IKEA is named after the initials of founder <b>I</b>ngvar <b>K</b>amprad, <b>E</b>lmtaryd, the farm on which he grew up, and <b>A</b>gunnaryd, the nearby village.&quot;</i></Text>    
                                 </Box>
                             </Box>
                         </SimpleGrid>
