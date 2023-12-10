@@ -26,8 +26,8 @@ export default function Home() {
               <Image alt='business concept' src='/business concept.png' width={700} height={400}/>
             </GridItem>
             <GridItem w={'100%'} >
-              <Text mb={'10px'}><b><i>&#34;To create a better everyday life for many people&#34;</i></b>, this is the IKEA vision. The main financial principle of the IKEA Group is to grow by using our own resources. In other words, we earn our money before we spend it. This makes it possible for us to make long-term investments for the future.</Text>
-              <Text mt={'10px'}>The IKEA vision is the foundation for our growth. We want to make sure that IKEA is accessible, so that more people can create a better everyday life at home. We re-invest a majority of our profits in existing and new IKEA stores, as well as in product development, sustainable solutions and by continuously lowering prices to our customers.</Text>
+              <Text mb={'10px'}><b><i>To create a better everyday life for many people</i></b>, this is the IKEA vision. Our business idea is &quot;to offer a wide range of well-designed, functional home furnishing products at prices so low that as many people as possible will be able to afford them&quot;.</Text>
+              <Text mt={'10px'}>We work hard to achieve quality at affordable prices for our customers through optimizing our entire value chain, by building long-term supplier relationships, investing in highly automated production and producing large volumes. Our vision also goes beyond home furnishing. We want to create a better everyday for all people impacted by our business.</Text>
             </GridItem>
           </Grid>
 
