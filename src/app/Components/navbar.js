@@ -10,7 +10,7 @@ export default function Navbar() {
             <Container zIndex={'99'} position={'fixed'} bgColor={'white'}  paddingTop={'20px'} top={'0'} paddingBottom={'20px'} maxW={'100%'} display={'flex'} width={'100%'} flexFlow={'column'} alignItems={'center'} >
                 <Box  maxW={'1400px'} width={'100%'} display={'flex'} flexFlow={'row'} justifyContent={'space-between'}>
                     <HStack  justifyContent={'flex-start'} position={'relative'}>
-                        <Link href="/"><Image alt='ikea logo' src={"/ikea_logo.png"} width={120} height={45}/></Link>
+                        <Link href="/"><Image alt='ikea logo' src="/ikea_logo.png" width={120} height={45}/></Link>
                 
                     </HStack>
                     
