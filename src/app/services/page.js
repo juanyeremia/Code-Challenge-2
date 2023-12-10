@@ -10,14 +10,15 @@ export default function Services() {
             <Container maxW={'1700px'} display={'flex'} flexFlow={'column'} alignItems={'center'} mt={'100px'}>
                 <Box maxW={'1400px'} textAlign={'justify'} width={'100%'} mt={'10px'} >
                     <Heading  size={'2xl'} mb={'40px'} marginBottom={'50px'}>Services</Heading>
-                    <Box mb={'50px'} display={'flex'} flexFlow={'row'} justifyContent={'space-between'} bgColor={'#EEEFEE'}>
+                    {/* display={'flex'} flexFlow={'row'} justifyContent={'space-between'} bgColor={'#EEEFEE'} */}
+                    <SimpleGrid columns={2} mb={'50px'} minChildWidth={'400px'}>
                         <Image alt='service banner' src='/services banner.jpeg' width={800} height={400} />
                         <Box p={'50px'} display={'flex'} flexFlow={'column'} alignItems={'flex-start'}>
                             <Heading fontSize={'3xl'} textAlign={'left'} color={'#484949'}>Because sometimes you need a helping hand</Heading>
                             <Text mt={'50px'}>We offer a range of services to make your life easier. Whether you need a helping hand with installation or assembly, or you want to recycle your old furniture sustainably, our professionals can do the hard work for you.</Text>
                             <Text fontSize={'xs'} as={'b'} p={'10px 15px'} borderRadius={'40px'} mt={'50px'} bgColor={'black'} color={'white'}>Download Brochure</Text>
                         </Box>
-                    </Box>
+                    </SimpleGrid>
                         
                     <Box textAlign={'center'} >
                         <Heading fontSize={'2xl'}>Service options</Heading>
