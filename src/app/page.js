@@ -35,7 +35,7 @@ export default function Home() {
           <Grid templateColumns={'repeat(2, 1fr)'} gap={6} borderBottom={'1px solid lightgray'} paddingBottom={'70px'}>
             <GridItem w={'100%'} >
               <Text mb={'10px'}><b>Investing for the future.</b></Text>
-              <Text mt={'10px'}><i>“To create a better everyday life for the many people”</i>, this is the IKEA vision. The main financial principle of the IKEA Group is to grow by using our own resources. In other words, we earn our money before we spend it. This makes it possible for us to make long-term investments for the future.</Text>
+              <Text mt={'10px'}><i>&quot;To create a better everyday life for the many people&quot;</i>, this is the IKEA vision. The main financial principle of the IKEA Group is to grow by using our own resources. In other words, we earn our money before we spend it. This makes it possible for us to make long-term investments for the future.</Text>
               <Text mt={'10px'}>The IKEA vision is the foundation for our growth. We want to make sure that IKEA is accessible, so that more people can create a better everyday life at home. We re-invest a majority of our profits in existing and new IKEA stores, as well as in product development, sustainable solutions and by continuously lowering prices to our customers.</Text>
             </GridItem>
             <GridItem w={'100%'}>

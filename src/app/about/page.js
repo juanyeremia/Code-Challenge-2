@@ -22,7 +22,7 @@ export default function About() {
                                 
                                 <Box mb={'100px'}>
                                     <Heading fontSize={'xl'} mb={'20px'}>Vision</Heading>
-                                    <Text mb={'20px'}>“To create a better everyday life for the many people.” This vision goes beyond home furnishing. We want to have a positive impact on the world – from the communities where we source our raw materials to the way our products help our customers live a more sustainable life at home.</Text>
+                                    <Text mb={'20px'}>&quot;To create a better everyday life for the many people.&quot; This vision goes beyond home furnishing. We want to have a positive impact on the world – from the communities where we source our raw materials to the way our products help our customers live a more sustainable life at home.</Text>
                                     <Text>By sharing what we do, and speaking up for what we believe in, we can be part of positive change in society.</Text>
                                 </Box>
                                 <Box mb={'50px'}>
