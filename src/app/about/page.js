@@ -55,7 +55,7 @@ export default function About() {
                                 <Heading fontSize={'4xl'} mt={'50px'} mb={'50px'}>Our roots</Heading>  
                                 <Box mb={'100px'}>
                                     <Text>Ingvar Kamprad founded IKEA in 1943 at the age of 17, selling goods like pens and wallets. Småland, his home county in Sweden, was heavily forested with stony soil. Resourceful people who were expert at making the most of a little is a quality that has always been at the heart of IKEA.</Text>
-                                    <Text ml={'50px'} textAlign={'right'} fontSize={'xl'} mt={'80%'}><i>&quot;Did you know? IKEA is named after the initials of founder <b>I</b>ngvar <b>K</b>amprad, <b>E</b>lmtaryd, the farm on which he grew up, and <b>A</b>gunnaryd, the nearby village.&quot;</i></Text>    
+                                    <Text ml={'50px'} textAlign={'right'} fontSize={'xl'} mt={'80%'}><i>Did you know? IKEA is named after the initials of founder <b>I</b>ngvar <b>K</b>amprad, <b>E</b>lmtaryd, the farm on which he grew up, and <b>A</b>gunnaryd, the nearby village.</i></Text>    
                                 </Box>
                             </Box>
                         </SimpleGrid>
